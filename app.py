@@ -512,7 +512,7 @@ def main():
             df_disp[[
                 "Ticker", "Nombre", "País", "Industria", "Sector",
                 "Precio", "P/E", "P/B", "P/FCF",
-                "Dividend Yield %", "Payout Ratio", "ROA", "ROE",
+                "Payout Ratio", "ROA", "ROE",
                 "Current Ratio", "Debt/Eq", "Oper Margin", "Profit Margin",
                 "WACC", "ROIC", "Creacion Valor (Wacc vs Roic)", "MarketCap"
             ]],
